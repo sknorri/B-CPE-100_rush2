@@ -1,2 +1,2 @@
 # B-CPE-100_rush2
-Programming test 1
+This is a short program to count specific characters in a text, calculate the frequency of the characters and detect the languange
